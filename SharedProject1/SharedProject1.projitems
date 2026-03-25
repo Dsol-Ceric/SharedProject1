@@ -9,5 +9,6 @@
     <Import_RootNamespace>SharedProject1</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)amano\test.txt" />
   </ItemGroup>
 </Project>
