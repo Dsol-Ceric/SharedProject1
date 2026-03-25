@@ -10,5 +10,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="$(MSBuildThisFileDirectory)amano\test.txt" />
+    <Content Include="$(MSBuildThisFileDirectory)common\README.md" />
   </ItemGroup>
 </Project>
